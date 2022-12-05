@@ -1,0 +1,67 @@
+{
+  "cards": [
+    {
+      "name_short": "an111",
+      "title": "Angel Number 111",
+      "value": "111",
+      "value_int": 1,
+      "description": "Trust your intuition and listen to your heart."
+    },
+    {
+      "name_short": "an222",
+      "title": "Angel Number 222",
+      "value": "222",
+      "value_int": 2,
+      "description": "You are in the right place and the right time."
+    },
+    {
+      "name_short": "an333",
+      "title": "Angel Number 333",
+      "value": "333",
+      "value_int": 3,
+      "description": "Your spiritual guides are around you sending you love, support, and guidance."
+    },
+    {
+      "name_short": "an444",
+      "title": "Angel Number 444",
+      "value": "444",
+      "value_int": 4,
+      "description": "The universe and your spiritual guides are protecting you."
+    },
+    {
+      "name_short": "an555",
+      "title": "Angel Number 555",
+      "value": "555",
+      "value_int": 5,
+      "description": "Something new is coming."
+    },
+    {
+      "name_short": "an666",
+      "name": "Angel Number 666",
+      "value": "666",
+      "value_int": 6,
+      "description": "It's time to wake up to your higher spiritual truth."
+    },
+    {
+      "name_short": "an777",
+      "name": "Angel Number 777",
+      "value": "777",
+      "value_int": 7,
+      "description": "Wonderful things are about to happen."
+    },
+    {
+      "name_short": "an888",
+      "name": "Angel Number 888",
+      "value": "888",
+      "value_int": 8,
+      "description": "Everything is falling into place as it's meant to be."
+    },
+    {
+      "name_short": "an999",
+      "title": "Angel Number 999",
+      "value": "999",
+      "value_int": 9,
+      "description": "It's time to let go of what's no longer serving you."
+    }
+  ]
+}
